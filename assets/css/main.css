@@ -2731,7 +2731,7 @@
 
 
 
-			body:not(.is-touch) .tiles article:hover > .image {
+		/*	body:not(.is-touch) .tiles article:hover > .image {
 				-moz-transform: scale(1.1);
 				-webkit-transform: scale(1.1);
 				-ms-transform: scale(1.1);
@@ -2766,7 +2766,7 @@
 
 		body.is-touch .tiles article .content {
 			max-height: 15em;
-			opacity: 1;
+			opacity: 1;*/
 		}
 
 		@media screen and (max-width: 1280px) {
